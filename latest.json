@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "project": "mylib-w-esp-chip-download-tool",
+  "source": "github",
+  "version": "1.0.3",
+  "package_name": "mylib-w-esp-chip-download-tool-v1.0.3.exe",
+  "package_parts": [
+    {
+      "name": "mylib-w-esp-chip-download-tool-v1.0.3.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-w_esp_chip_download_tool/releases/download/mylib-w-esp-chip-download-tool-v1.0.3/mylib-w-esp-chip-download-tool-v1.0.3.exe.part001",
+      "sha256": "62151915925906db6d559611edaebbb939ec6637f04423e3143efbcdae3c31df",
+      "size": 71048040
+    }
+  ],
+  "sha256": "62151915925906db6d559611edaebbb939ec6637f04423e3143efbcdae3c31df",
+  "size": 71048040,
+  "notes": "V1.0.3\n1、更改软件图标，使图标更根据产品形象",
+  "mandatory": false,
+  "published_at": "2026-11-11T06:27:17+00:00"
+}
